@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDatabaseComKotlin</string>
+    <string name="singUp_bottom_title">Cadastrar Usuário</string>
+</resources>
